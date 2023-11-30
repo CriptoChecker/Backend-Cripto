@@ -1,0 +1,11 @@
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\persistencia\DynamoDBConfig.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\rest\CotacaoController.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\entidades\Criptomoeda.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\entidades\Moeda.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\entidades\Cotacao.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\Application.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\persistencia\CotacaoRepository.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\rest\CriptomoedaController.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\negocio\CotacaoService.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\negocio\CriptomoedaService.java
+c:\projectgqs\cripto\backend-cripto\src\main\java\br\unibh\gqs\persistencia\CriptomoedaRepository.java

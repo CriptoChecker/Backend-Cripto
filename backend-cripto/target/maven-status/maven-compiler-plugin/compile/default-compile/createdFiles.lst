@@ -1,0 +1,11 @@
+br\unibh\gqs\Application.class
+br\unibh\gqs\persistencia\CotacaoRepository.class
+br\unibh\gqs\rest\CotacaoController.class
+br\unibh\gqs\entidades\Cotacao.class
+br\unibh\gqs\persistencia\CriptomoedaRepository.class
+br\unibh\gqs\negocio\CriptomoedaService.class
+br\unibh\gqs\negocio\CotacaoService.class
+br\unibh\gqs\entidades\Criptomoeda.class
+br\unibh\gqs\persistencia\DynamoDBConfig.class
+br\unibh\gqs\entidades\Moeda.class
+br\unibh\gqs\rest\CriptomoedaController.class
